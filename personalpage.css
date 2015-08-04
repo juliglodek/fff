@@ -1,0 +1,55 @@
+h1 {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 36px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+a:hover { 
+    color: pink;
+    text-decoration: none;
+}
+body {
+    text-align: center;
+    background: white;
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 16px;
+}
+p {
+    font-size: 16px;
+}
+#leftimage {
+    /*width: 350px;*/
+    margin-left: 25%;
+    float: left;
+}
+#rightimage {
+    /*width: 350px;*/
+    margin-right: 25%;
+    float: right;
+}
+#pricing {
+    margin-left: 10%;
+    float: left;
+}
+#contact {
+    margin-right: 10%;
+    float: right;
+}
+div {
+    text-align: left;
+
+}
+#inquiries {
+    width: 316px;
+    height: 200px;
+}
