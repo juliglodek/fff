@@ -27,6 +27,7 @@ body {
 p {
     font-size: 16px;
 }
+
 #leftimage {
     /*width: 350px;*/
     margin-left: 25%;
@@ -50,15 +51,13 @@ div {
 
 }
 .image_box {
-    height: 320px;
+    height: 300px;
     text-align: center;
 }
 #inquiries {
     width: 316px;
     height: 200px;
 }
-
-
 
 /* social icons */
 @font-face {
