@@ -54,6 +54,9 @@ div {
     height: 300px;
     text-align: center;
 }
+.horizontal {
+    padding-top: 37.5px;
+}
 #inquiries {
     width: 316px;
     height: 200px;
